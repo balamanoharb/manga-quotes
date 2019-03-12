@@ -1,0 +1,76 @@
+One Piece
+
+When do you think people die? When they are shot through the heart by the bullet of a pistol? No. When they are ravaged by an incurable disease? No. When they drink a soup made from a poisonous mushroom!? No! It’s when... they are forgotten.
+
+Dr. Hiluluk
+-------------
+
+I don't give a rat's ass about going to hell. I guess it's because I feel like I'm already there.
+
+~ Mugen
+
+
+--------
+var quotes = [
+  "If you realize you made a mistake with the way you've been living your life, you just have to take the next moment and start over.",
+  "God would never put us through all this suffering if he didn't think we could bear it.",
+  "People can't live for the future without accepting reality.",
+  "Unnecessary thoughts will only interfere with your plays.",
+  "Human beings are strong because we have the ability to change ourselves.",
+  "Ruling over death means ruling over life. Death is the climax of life. To have the best death, you must honor life. ",
+  "If people could become friends simply by sharing bread and salt, life would be simpler.",
+  "If I ignore a friend I have the ability to help, wouldn't I be betraying him?",
+  "If people scrutinize you, just ignore them and do whatever you want to do.",
+  "The words you've said cannot be taken back. So you must take action to paint over what you have already said.",
+  "The most certain way to succeed is to try one more time. Our greatest weakness lies in giving up.",
+  "The ideal tool for controlling people is fear. And nothing overwhelms people more than an unseen fear.",
+  "You shouldn't judge people by how they look.",
+  "The things we can't obtain are the most beautiful ones.",
+  "We have no need for the past. All we need are the present and the future.",
+  "What is really wicked... is judging people without even trying to get to know them!",
+  "The time when you're happy is also the time when you're afraid that the happiness will end.",
+  "The only one who should decide which path to follow is yourself.",
+  "Not fighting frantically for your life is all right, too. The important thing is… to decide on your own what you should do. ",
+  "You yourself have to change first, or nothing will change for you!"
+];
+
+var authors = [
+  "Erza Scarlet (Fairy Tail)",
+  "Konno Yuuki (Sword Art Online II)",
+  "Kurokawa Mari (Gate: Jieitai Kanochi nite, Kaku Tatakaeri)",
+  "Gouenji Shuuya (Inazuma Eleven)",
+  "Saitama (One Punch Man)",
+  "Rory Mercury (Gate: Jieitai Kanochi nite, Kaku Tatakaeri)",
+  "Peppo (Gankutsuou)",
+  "Killua Zoldyck (Hunter X Hunter)",
+  "Zen Wistalia (Akagami no Shirayukihime)",
+  "Dyne Woodwonder (Overlord)",
+  "Classroom Crisis (Classroom Crisis)",
+  "Lelouch Lamperouge (Code Geass: Akito the Exiled)",
+  "Yato (Noragami)",
+  "Gilgamesh (Fate Stay Night - Unlimited Blade Works)",
+  "Ciel Phantomhive (Kuroshitsuji)",
+  "Ada Vessalius (Pandora Hearts)",
+  "Subarashii Sekai (Subarashii Sekai)",
+  "Zen Wistalia (Akagami no Shirayukihime)",
+  "Hakuren Oak (07 Ghost)",
+  "Gintoki Sakata (Gintama)"
+];
+
+https://www.reddit.com/r/animequotes/
+
+http://animequotes.net/browse-all-anime
+
+http://lanimequotes.weebly.com/contact.html
+
+APIS
+--------
+
+https://www.animenewsnetwork.com/encyclopedia/api.php
+https://jikan.me/
+https://kitsu.docs.apiary.io/#introduction/tutorials
+https://ghibliapi.herokuapp.com/#
+http://wiki.anidb.net/w/API
+https://myanimelist.net/modules.php?go=api
+https://github.com/hummingbird-me/api-docs
+https://www.npmjs.com/package/hummingbird-api
